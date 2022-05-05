@@ -43,7 +43,7 @@ The response of each mass of the system, now a 2-DOF system, to harmonic force a
 &mu; is the mass ratio = M<sub>2</sub>/M<sub>1</sub>. &omega;n<sub>1</sub> = (K<sub>1</sub>/M<sub>1</sub>)^0.5 and &omega;n<sub>2</sub> = (K<sub>1</sub>/M<sub>2</sub>)^0.5, However, the natural frequencies of the 2-degree of freedom system formed after attaching the auxiliary system are given by different expressions in terms of M<sub>1</sub>, M<sub>2</sub>, K<sub>1</sub>, and K<sub>2</sub>. Plot of the dimensionless responses of each of the two masses is shown above when a harmonic force acts on M­1 when excitation frequency is close to natural frequency of main system,&omega; &ne;&omega;<sub>1</sub> ,, but much away from natural frequency of auxiliary system,&omega; &ne;&omega;<sub>2</sub>, Mass ratio &mu;=M<sub>2</sub>/M<sub>1</sub>= 0.15.
 
 <table><tr>
-<td><img src="images/img6.jfif" title="" /></td>
+<td><img src="images/img6.png" title="" /></td>
 <td><img src="images/img7.png" title="" /></td>
 </tr>
 <tr>
