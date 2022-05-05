@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The maximum displacement from mean position of a vibrating body is called ",
+      "answers": {
+        "a": "Frequency ",
+        "b": "Phase",
+        "c": "Amplitude",
+        "d": "Resonance"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the number of nodes in a shaft carrying three rotors?",
+      "answers": {
+        "a": "2",
+        "b": "zero",
+        "c": "4",
+        "d": "3"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A vibrating system is said to be critically damped when the damping factor is ",
+      "answers": {
+        "a": "Infinity",
+        "b": "zero",
+        "c": "0.5",
+        "d": "Unity"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When a system is subjected to forced vibrations, then under steady-state conditions",
+      "answers": {
+        "a": "It vibrates at its natural frequency",
+        "b": "It vibrates at the imposed frequency",
+        "c": "It vibrates at the mean of natural and imposed frequencies",
+        "d": "None of the above"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Critical or whirling speed is the speed at which the shaft tends to vibrate violently in",
+      "answers": {
+        "a": "Transverse direction",
+        "b": "Longitudinal direction",
+        "c": "Linear direction",
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
