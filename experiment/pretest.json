@@ -2,37 +2,51 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following relations with usual notation will hold good in a dynamic vibration absorber system under tuned conditions?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "k<sub>1</sub>k<sub>2</sub> = m<sub>1</sub>m<sub>2</sub>",
+        "b": "k<sub>1</sub>m<sub>2</sub> = m<sub>1</sub>k<sub>2</sub>",
+        "c": "k<sub>1</sub>m<sub>1</sub> = k<sub>2</sub>m<sub>2</sub>",
+        "d": "k<sub>1</sub> + k<sub>2</sub> = m<sub>1</sub> + m<sub>2</sub>"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The damping force is constant in magnitude but opposite in direction to that of motion of vibrating bodies in case of",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Viscous damping",
+        "b": "Slip damping",
+        "c": "Columb damping",
+        "d": "Structural damping"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "At resonance, the amplitude of vibration is ",
+      "answers": {
+        "a": "small",
+        "b": "zero",
+        "c": "Depend on frequency",
+        "d": "Very large"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In case of critical damping the damping factor ratio is ",
+      "answers": {
+        "a": "Equal to one",
+        "b": "Equal to zero",
+        "c": "Less than one",
+        "d": "Greater than one"
+      },
+     
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
